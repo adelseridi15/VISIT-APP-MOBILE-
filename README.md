@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visit - Guide Touristique Algérien
 
 Application mobile ultra-moderne pour découvrir les régions algériennes, leur patrimoine et leur gastronomie.
@@ -74,3 +75,6 @@ npm run dev
 - Animations fluides et microinteractions
 - Responsive sur tous les appareils
 - Support bilingue (Français/Arabe)
+=======
+# VISIT-APP-MOBILE-
+>>>>>>> 6108a7ce34cd2afc932dc5b6c4a8d9b287e14062
