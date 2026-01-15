@@ -52,5 +52,3 @@ npx expo start
 - Responsive sur tous les appareils
 - Support bilingue (Français/Arabe)
 
-# VISIT-APP-MOBILE-
-
