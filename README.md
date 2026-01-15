@@ -3,31 +3,7 @@
 
 Application mobile ultra-moderne pour découvrir les régions algériennes, leur patrimoine et leur gastronomie.
 
-## Configuration Supabase
 
-### 1. Créer un projet Supabase
-- Allez sur [supabase.com](https://supabase.com) et créez un compte
-- Créez un nouveau projet
-
-### 2. Appliquer les migrations
-Les migrations SQL contiennent :
-- Table `regions` avec 6 régions algériennes
-- Table `heritage_sites` avec sites patrimoniaux
-- Table `gastronomy` avec spécialités culinaires
-- Table `favorites` pour la gestion des favoris
-- Table `user_profiles` pour les profils utilisateur
-- Configuration d'authentification email/password
-
-### 3. Récupérer les identifiants Supabase
-- Allez dans Project Settings > API
-- Copiez `Project URL` et `anon/public key`
-
-### 4. Configurer les variables d'environnement
-Créez un fichier `.env` à la racine du projet :
-```
-EXPO_PUBLIC_SUPABASE_URL=votre_url_supabase
-EXPO_PUBLIC_SUPABASE_ANON_KEY=votre_anon_key
-```
 
 ## Installation
 
@@ -38,7 +14,7 @@ npm install
 ## Lancement
 
 ```bash
-npm run dev
+npx expo start
 ```
 
 ## Fonctionnalités
