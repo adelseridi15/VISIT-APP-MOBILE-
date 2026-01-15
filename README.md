@@ -51,6 +51,6 @@ npx expo start
 - Animations fluides et microinteractions
 - Responsive sur tous les appareils
 - Support bilingue (Français/Arabe)
-=======
+
 # VISIT-APP-MOBILE-
->>>>>>>
+
